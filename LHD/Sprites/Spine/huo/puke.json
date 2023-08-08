@@ -1,0 +1,64 @@
+{
+"skeleton": {
+	"hash": "a88tiz6UkB+RBgz79ajDEs0IM8c",
+	"spine": "3.8.99",
+	"x": -141.64,
+	"y": -77.38,
+	"width": 280,
+	"height": 280,
+	"images": "./images/",
+	"audio": "C:/Users/Administrator/Desktop/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 145.5, "x": 1.36, "y": -146.7 },
+	{
+		"name": "huo01",
+		"parent": "bone",
+		"length": 54.15,
+		"rotation": 90,
+		"x": -4.92,
+		"y": 150.97,
+		"scaleX": 1.4,
+		"scaleY": 1.4
+	}
+],
+"slots": [
+	{ "name": "huo01", "bone": "huo01", "attachment": "huo08" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"huo01": {
+				"huo01": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo02": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo03": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo04": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo05": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo06": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo07": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 },
+				"huo08": { "x": 41.67, "y": -1.37, "rotation": -90, "width": 200, "height": 200 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"huo01": {
+				"attachment": [
+					{ "name": "huo01" },
+					{ "time": 0.2, "name": "huo02" },
+					{ "time": 0.3667, "name": "huo03" },
+					{ "time": 0.5667, "name": "huo04" },
+					{ "time": 0.7667, "name": "huo05" },
+					{ "time": 0.9667, "name": "huo06" },
+					{ "time": 1.1333, "name": "huo07" },
+					{ "time": 1.3333, "name": "huo08" }
+				]
+			}
+		}
+	}
+}
+}

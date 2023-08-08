@@ -1,0 +1,62 @@
+
+touxiangkuang.png
+size: 344,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan01
+  rotate: false
+  xy: 171, 2
+  size: 169, 177
+  orig: 200, 200
+  offset: 15, 11
+  index: -1
+quan02
+  rotate: true
+  xy: 169, 348
+  size: 163, 173
+  orig: 200, 200
+  offset: 16, 14
+  index: -1
+quan03
+  rotate: false
+  xy: 2, 12
+  size: 167, 167
+  orig: 200, 200
+  offset: 20, 20
+  index: -1
+quan04
+  rotate: false
+  xy: 2, 182
+  size: 165, 169
+  orig: 200, 200
+  offset: 21, 18
+  index: -1
+quan05
+  rotate: true
+  xy: 169, 181
+  size: 165, 169
+  orig: 200, 200
+  offset: 21, 14
+  index: -1
+quan06
+  rotate: true
+  xy: 169, 513
+  size: 161, 165
+  orig: 200, 200
+  offset: 26, 18
+  index: -1
+quan07
+  rotate: false
+  xy: 2, 353
+  size: 165, 165
+  orig: 200, 200
+  offset: 16, 16
+  index: -1
+quan08
+  rotate: false
+  xy: 2, 520
+  size: 165, 154
+  orig: 200, 200
+  offset: 16, 24
+  index: -1

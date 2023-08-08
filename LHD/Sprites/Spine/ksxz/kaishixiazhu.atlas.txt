@@ -1,0 +1,41 @@
+
+kaishixiazhu.png
+size: 1096,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 25
+  size: 845, 180
+  orig: 851, 183
+  offset: 2, 2
+  index: -1
+guang01
+  rotate: false
+  xy: 2, 17
+  size: 487, 6
+  orig: 519, 10
+  offset: 3, 2
+  index: -1
+guang02
+  rotate: false
+  xy: 491, 17
+  size: 298, 6
+  orig: 313, 10
+  offset: 2, 2
+  index: -1
+yumao01
+  rotate: true
+  xy: 986, 2
+  size: 203, 105
+  orig: 203, 105
+  offset: 0, 0
+  index: -1
+yumao02
+  rotate: true
+  xy: 849, 27
+  size: 178, 135
+  orig: 178, 135
+  offset: 0, 0
+  index: -1

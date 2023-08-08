@@ -1,0 +1,62 @@
+
+puke.png
+size: 448,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo01
+  rotate: true
+  xy: 229, 113
+  size: 95, 128
+  orig: 200, 200
+  offset: 52, 35
+  index: -1
+huo02
+  rotate: false
+  xy: 119, 101
+  size: 108, 107
+  orig: 200, 200
+  offset: 46, 47
+  index: -1
+huo03
+  rotate: true
+  xy: 119, 2
+  size: 97, 108
+  orig: 200, 200
+  offset: 52, 39
+  index: -1
+huo04
+  rotate: false
+  xy: 359, 97
+  size: 87, 111
+  orig: 200, 200
+  offset: 53, 45
+  index: -1
+huo05
+  rotate: false
+  xy: 346, 4
+  size: 97, 91
+  orig: 200, 200
+  offset: 54, 55
+  index: -1
+huo06
+  rotate: false
+  xy: 2, 100
+  size: 115, 108
+  orig: 200, 200
+  offset: 42, 46
+  index: -1
+huo07
+  rotate: true
+  xy: 2, 2
+  size: 96, 111
+  orig: 200, 200
+  offset: 51, 46
+  index: -1
+huo08
+  rotate: true
+  xy: 229, 13
+  size: 98, 115
+  orig: 200, 200
+  offset: 50, 43
+  index: -1

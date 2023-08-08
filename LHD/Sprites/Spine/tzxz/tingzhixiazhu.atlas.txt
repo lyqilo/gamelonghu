@@ -1,0 +1,48 @@
+
+tingzhixiazhu.png
+size: 1060,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 30
+  size: 845, 180
+  orig: 851, 183
+  offset: 2, 2
+  index: -1
+guang01
+  rotate: false
+  xy: 2, 2
+  size: 652, 26
+  orig: 716, 29
+  offset: 16, 1
+  index: -1
+guang02
+  rotate: false
+  xy: 656, 2
+  size: 389, 26
+  orig: 428, 29
+  offset: 10, 1
+  index: -1
+yumao01
+  rotate: false
+  xy: 849, 132
+  size: 196, 78
+  orig: 202, 85
+  offset: 3, 4
+  index: -1
+yumao02
+  rotate: false
+  xy: 849, 70
+  size: 161, 60
+  orig: 165, 64
+  offset: 2, 3
+  index: -1
+yumao03
+  rotate: false
+  xy: 1012, 82
+  size: 45, 48
+  orig: 51, 53
+  offset: 4, 2
+  index: -1
