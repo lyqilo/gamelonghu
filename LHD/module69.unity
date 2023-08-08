@@ -27928,6 +27928,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312711255662776314, guid: 1ae04486f7903a44e980797b99d05261,
         type: 3}
+      propertyPath: m_IsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312711255662776314, guid: 1ae04486f7903a44e980797b99d05261,
+        type: 3}
       propertyPath: m_Group
       value: 
       objectReference: {fileID: 854116180}
@@ -29028,6 +29033,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312711255662776314, guid: 1ae04486f7903a44e980797b99d05261,
+        type: 3}
+      propertyPath: m_IsOn
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3312711255662776314, guid: 1ae04486f7903a44e980797b99d05261,
         type: 3}
