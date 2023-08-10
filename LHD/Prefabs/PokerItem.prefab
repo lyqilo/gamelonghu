@@ -2239,8 +2239,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1.1, y: -98.40003}
-  m_SizeDelta: {x: 107, y: 147.2}
+  m_AnchoredPosition: {x: 2.413, y: -98.894035}
+  m_SizeDelta: {x: 102.626, y: 142.156}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3973938836875662576
 CanvasRenderer:
@@ -2765,16 +2765,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5895245949845378940}
-  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4212285388471851089}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -99}
+  m_AnchoredPosition: {x: 4.1, y: -99}
   m_SizeDelta: {x: 106, y: 146}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5895245949845378819
@@ -2824,6 +2824,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5895245950608477085}
+  - component: {fileID: 6250294420603347493}
   m_Layer: 24
   m_Name: PokerItem
   m_TagString: Untagged
@@ -2851,6 +2852,25 @@ RectTransform:
   m_AnchoredPosition: {x: -356, y: -114}
   m_SizeDelta: {x: 138, y: 198}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &6250294420603347493
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5895245950608477084}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3c92e32c79c0add4f90c0677ef59f22e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &5895245951957754211
 GameObject:
   m_ObjectHideFlags: 0
