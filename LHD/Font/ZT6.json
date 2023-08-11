@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "0.png",
+	"frame": {"x":0,"y":0,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "1.png",
+	"frame": {"x":27,"y":0,"w":21,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":36},
+	"sourceSize": {"w":21,"h":36}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":48,"y":0,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":75,"y":0,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":0,"y":36,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "5.png",
+	"frame": {"x":27,"y":36,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "6.png",
+	"frame": {"x":54,"y":36,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "7.png",
+	"frame": {"x":81,"y":36,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "8.png",
+	"frame": {"x":0,"y":72,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+},
+{
+	"filename": "9.png",
+	"frame": {"x":27,"y":72,"w":27,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":36},
+	"sourceSize": {"w":27,"h":36}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ZT6.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:10e89a92f760e727be63aeb67bc0c423:ddcb2fa7efd4b04f4706ad23a2e3f632:958062ffc84cc2b7382b9fdb67322a86$"
+}
+}
