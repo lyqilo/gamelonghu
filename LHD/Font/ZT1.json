@@ -87,6 +87,14 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
 	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "_.png",
+	"frame": {"x":25,"y":70,"w":13,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":35},
+	"sourceSize": {"w":13,"h":35}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -95,6 +103,6 @@
 	"format": "RGBA8888",
 	"size": {"w":128,"h":128},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:053782091a07c949682da1fb2ef3b4fd:830c913daa5c1fb578f10b621ca8f6f7:ebc7cc37e02ff9e2ec964deade56a467$"
+	"smartupdate": "$TexturePacker:SmartUpdate:5c3ce89cd503262611d6f1774428e9ca:da9857df1d21acb164b496830734ca64:ebc7cc37e02ff9e2ec964deade56a467$"
 }
 }
