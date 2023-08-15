@@ -1,76 +1,104 @@
 
 laohu.png
-size: 1208,220
+size: 1248,556
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 huo01
   rotate: false
-  xy: 791, 3
-  size: 67, 47
-  orig: 78, 56
-  offset: 9, 4
+  xy: 826, 47
+  size: 107, 76
+  orig: 125, 90
+  offset: 14, 6
   index: -1
 huo02
-  rotate: true
-  xy: 652, 14
-  size: 32, 28
-  orig: 38, 33
-  offset: 3, 2
+  rotate: false
+  xy: 945, 189
+  size: 53, 45
+  orig: 61, 53
+  offset: 4, 4
   index: -1
 huo03
-  rotate: true
-  xy: 1080, 2
-  size: 73, 68
-  orig: 86, 79
-  offset: 6, 6
+  rotate: false
+  xy: 826, 125
+  size: 117, 109
+  orig: 138, 126
+  offset: 10, 9
   index: -1
 huo04
-  rotate: false
-  xy: 860, 2
-  size: 53, 48
-  orig: 80, 70
-  offset: 23, 7
+  rotate: true
+  xy: 1029, 47
+  size: 84, 77
+  orig: 128, 112
+  offset: 37, 11
   index: -1
 laohui
   rotate: false
-  xy: 2, 4
-  size: 371, 212
-  orig: 387, 214
-  offset: 1, 1
+  xy: 2, 227
+  size: 563, 327
+  orig: 616, 339
+  offset: 0, 12
   index: -1
 lei01
   rotate: false
-  xy: 375, 17
-  size: 275, 199
-  orig: 279, 203
-  offset: 2, 2
-  index: -1
-lei02
-  rotate: true
-  xy: 652, 48
-  size: 168, 137
-  orig: 174, 142
+  xy: 567, 236
+  size: 440, 318
+  orig: 446, 325
   offset: 3, 3
   index: -1
+lei02
+  rotate: false
+  xy: 2, 5
+  size: 269, 220
+  orig: 278, 227
+  offset: 5, 5
+  index: -1
 lei03
+  rotate: false
+  xy: 273, 2
+  size: 262, 223
+  orig: 269, 232
+  offset: 2, 3
+  index: -1
+tui01
   rotate: true
-  xy: 791, 52
-  size: 164, 139
-  orig: 168, 145
+  xy: 1009, 133
+  size: 168, 201
+  orig: 171, 205
   offset: 1, 2
+  index: -1
+tui1
+  rotate: true
+  xy: 739, 78
+  size: 156, 85
+  orig: 157, 86
+  offset: 1, 1
+  index: -1
+tui2
+  rotate: true
+  xy: 945, 4
+  size: 127, 82
+  orig: 130, 82
+  offset: 2, 0
   index: -1
 weiba
   rotate: true
-  xy: 1080, 77
-  size: 139, 125
-  orig: 139, 125
+  xy: 537, 3
+  size: 222, 200
+  orig: 222, 200
   offset: 0, 0
   index: -1
 zhuazi
   rotate: true
-  xy: 932, 60
-  size: 156, 146
-  orig: 158, 148
+  xy: 1009, 303
+  size: 251, 235
+  orig: 253, 237
   offset: 1, 1
+  index: -1
+zuiba
+  rotate: false
+  xy: 739, 6
+  size: 75, 70
+  orig: 78, 72
+  offset: 2, 1
   index: -1

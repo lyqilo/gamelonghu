@@ -287,7 +287,7 @@ MonoBehaviour:
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
   m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 11400000, guid: b36b3ea1b6812de45b475014845924a4, type: 2}
+  m_spriteAsset: {fileID: 11400000, guid: 9bdebcecb8a5f954a87523269c65978c, type: 2}
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
   m_TextStyleHashCode: -1183493901
