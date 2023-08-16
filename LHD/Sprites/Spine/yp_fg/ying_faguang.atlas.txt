@@ -1,0 +1,62 @@
+
+ying_faguang.png
+size: 1792,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 2, 3
+  size: 166, 223
+  orig: 168, 226
+  offset: 1, 1
+  index: -1
+002
+  rotate: true
+  xy: 227, 3
+  size: 166, 223
+  orig: 168, 226
+  offset: 1, 1
+  index: -1
+003
+  rotate: true
+  xy: 452, 2
+  size: 167, 222
+  orig: 170, 224
+  offset: 1, 1
+  index: -1
+004
+  rotate: true
+  xy: 676, 2
+  size: 167, 220
+  orig: 170, 222
+  offset: 1, 1
+  index: -1
+005
+  rotate: true
+  xy: 898, 2
+  size: 167, 220
+  orig: 170, 222
+  offset: 1, 1
+  index: -1
+006
+  rotate: true
+  xy: 1120, 2
+  size: 167, 220
+  orig: 170, 222
+  offset: 1, 1
+  index: -1
+007
+  rotate: true
+  xy: 1342, 2
+  size: 167, 220
+  orig: 170, 222
+  offset: 1, 1
+  index: -1
+008
+  rotate: true
+  xy: 1564, 2
+  size: 167, 223
+  orig: 170, 226
+  offset: 1, 1
+  index: -1
