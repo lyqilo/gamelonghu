@@ -1,194 +1,208 @@
 
 long.png
-size: 2720,412
+size: 292,1736
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-huxu
+da_long
+  rotate: true
+  xy: 2, 647
+  size: 397, 235
+  orig: 399, 235
+  offset: 2, 0
+  index: -1
+gool_scatter_eye_glow_effect_00000
   rotate: false
-  xy: 1824, 19
+  xy: 2, 61
+  size: 109, 41
+  orig: 113, 49
+  offset: 2, 3
+  index: -1
+gool_scatter_eye_glow_effect_00002
+  rotate: false
+  xy: 2, 18
+  size: 109, 41
+  orig: 115, 46
+  offset: 4, 2
+  index: -1
+gool_scatter_eye_glow_effect_00010
+  rotate: true
+  xy: 244, 1151
+  size: 121, 45
+  orig: 127, 49
+  offset: 4, 2
+  index: -1
+gool_scatter_eye_glow_effect_00012
+  rotate: true
+  xy: 244, 1390
+  size: 121, 46
+  orig: 128, 49
+  offset: 5, 1
+  index: -1
+gool_scatter_eye_glow_effect_00014
+  rotate: true
+  xy: 244, 1030
+  size: 119, 45
+  orig: 126, 48
+  offset: 5, 1
+  index: -1
+gool_scatter_eye_glow_effect_00016
+  rotate: false
+  xy: 2, 104
+  size: 114, 43
+  orig: 121, 48
+  offset: 5, 2
+  index: -1
+gool_scatter_eye_glow_effect_00018
+  rotate: true
+  xy: 118, 34
+  size: 113, 44
+  orig: 119, 49
+  offset: 4, 2
+  index: -1
+gool_scatter_eye_glow_effect_00020
+  rotate: true
+  xy: 239, 632
+  size: 117, 44
+  orig: 121, 48
+  offset: 2, 3
+  index: -1
+gool_scatter_eye_glow_effect_00026
+  rotate: true
+  xy: 244, 1274
+  size: 114, 46
+  orig: 120, 49
+  offset: 3, 1
+  index: -1
+huxu
+  rotate: true
+  xy: 226, 405
   size: 43, 56
   orig: 43, 56
   offset: 0, 0
   index: -1
 lei01
-  rotate: true
-  xy: 1773, 25
+  rotate: false
+  xy: 239, 895
   size: 50, 49
   orig: 52, 51
   offset: 1, 1
   index: -1
-lei011 (1)
-  rotate: true
-  xy: 975, 9
-  size: 51, 265
-  orig: 600, 600
-  offset: 275, 318
-  index: -1
-lei011 (2)
-  rotate: true
-  xy: 1525, 77
-  size: 65, 379
-  orig: 600, 600
-  offset: 262, 204
-  index: -1
-lei011 (3)
-  rotate: true
-  xy: 2011, 222
-  size: 188, 451
-  orig: 600, 600
-  offset: 201, 132
-  index: -1
-lei011 (4)
-  rotate: false
-  xy: 2, 4
-  size: 411, 406
-  orig: 600, 600
-  offset: 92, 113
-  index: -1
-lei011 (5)
-  rotate: false
-  xy: 1525, 144
-  size: 484, 266
-  orig: 600, 600
-  offset: 58, 116
-  index: -1
-lei011 (6)
-  rotate: false
-  xy: 415, 150
-  size: 559, 260
-  orig: 600, 600
-  offset: 18, 112
-  index: -1
-lei011 (7)
-  rotate: false
-  xy: 415, 24
-  size: 558, 124
-  orig: 600, 600
-  offset: 21, 117
-  index: -1
-lei011 (8)
-  rotate: false
-  xy: 975, 62
-  size: 548, 86
-  orig: 600, 600
-  offset: 26, 104
-  index: -1
 lei02
-  rotate: false
-  xy: 1443, 199
+  rotate: true
+  xy: 239, 820
   size: 73, 48
   orig: 75, 50
   offset: 1, 1
   index: -1
 lei03
   rotate: false
-  xy: 1671, 17
+  xy: 226, 450
   size: 58, 58
   orig: 60, 60
   offset: 1, 1
   index: -1
 lei04
   rotate: true
-  xy: 1443, 318
+  xy: 208, 311
   size: 92, 71
   orig: 94, 73
   offset: 1, 1
   index: -1
 lei05
-  rotate: true
-  xy: 2464, 305
+  rotate: false
+  xy: 164, 42
   size: 105, 88
   orig: 107, 90
   offset: 1, 1
   index: -1
 lei06
-  rotate: true
-  xy: 1406, 2
+  rotate: false
+  xy: 226, 510
   size: 58, 78
   orig: 60, 80
   offset: 1, 1
   index: -1
 lei07
   rotate: true
-  xy: 1570, 37
+  xy: 164, 2
   size: 38, 99
   orig: 40, 103
   offset: 1, 2
   index: -1
 longjiao_you
-  rotate: true
-  xy: 1443, 150
+  rotate: false
+  xy: 239, 751
   size: 47, 67
   orig: 49, 69
   offset: 1, 1
   index: -1
 longjiao_zuo
-  rotate: false
-  xy: 2554, 325
+  rotate: true
+  xy: 203, 201
   size: 108, 85
   orig: 110, 87
   offset: 1, 1
   index: -1
 longshen
-  rotate: true
-  xy: 2494, 37
+  rotate: false
+  xy: 2, 1513
   size: 266, 221
   orig: 379, 225
   offset: 3, 1
   index: -1
 longtou
   rotate: true
-  xy: 2112, 4
+  xy: 2, 429
   size: 216, 222
   orig: 226, 222
   offset: 0, 0
   index: -1
 longxu01
-  rotate: false
-  xy: 1731, 13
+  rotate: true
+  xy: 226, 590
   size: 40, 62
   orig: 40, 62
   offset: 0, 0
   index: -1
 longxu02
-  rotate: false
-  xy: 1486, 10
+  rotate: true
+  xy: 239, 946
   size: 82, 50
   orig: 82, 50
   offset: 0, 0
   index: -1
 longzui
   rotate: false
-  xy: 1443, 249
+  xy: 203, 132
   size: 71, 67
   orig: 73, 78
   offset: 1, 10
   index: -1
 yun004
   rotate: false
-  xy: 1242, 30
+  xy: 2, 149
   size: 162, 30
   orig: 167, 34
   offset: 1, 2
   index: -1
 yun01
-  rotate: true
-  xy: 2336, 21
+  rotate: false
+  xy: 2, 181
   size: 199, 156
   orig: 202, 181
   offset: 1, 4
   index: -1
 yun02
-  rotate: false
-  xy: 976, 170
+  rotate: true
+  xy: 2, 1046
   size: 465, 240
   orig: 468, 247
   offset: 1, 6
   index: -1
 yun03
   rotate: false
-  xy: 1906, 54
+  xy: 2, 339
   size: 204, 88
   orig: 209, 93
   offset: 2, 1
