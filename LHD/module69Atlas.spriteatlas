@@ -6,7 +6,7 @@ SpriteAtlas:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Assets/OtherScene/module69/LHD/module69Atlas.spriteatlas
+  m_Name: module69Atlas
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -443,5 +443,5 @@ SpriteAtlas:
   - icon_fanhui
   - dz_icon_06
   m_RenderDataMap: {}
-  m_Tag: Assets/OtherScene/module69/LHD/module69Atlas.spriteatlas
+  m_Tag: module69Atlas
   m_IsVariant: 0
