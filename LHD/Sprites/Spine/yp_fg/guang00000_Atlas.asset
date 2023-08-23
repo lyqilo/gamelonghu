@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
-  m_Name: ying_faguang_Atlas
+  m_Name: guang00000_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: a8586c5a4859f4a45bd0cb74d88fa715, type: 3}
+  atlasFile: {fileID: 4900000, guid: ac9d70b6ca6a345498f6dabe9bdaa81b, type: 3}
   materials:
-  - {fileID: 2100000, guid: d6255736c7e90f441996116ea3efa366, type: 2}
+  - {fileID: 2100000, guid: b5eda5c792b2bae4bab40f3ed5f7a298, type: 2}
