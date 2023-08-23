@@ -12473,7 +12473,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &571620672
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40102,9 +40102,8 @@ GameObject:
   - component: {fileID: 1847158049}
   - component: {fileID: 1847158052}
   - component: {fileID: 1847158051}
-  - component: {fileID: 1847158050}
   m_Layer: 24
-  m_Name: fdfsd
+  m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40129,20 +40128,6 @@ RectTransform:
   m_AnchoredPosition: {x: 19, y: -284}
   m_SizeDelta: {x: 750.133, y: 81.041}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1847158050
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847158048}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 369028
-  FallbackText: "\u5904\u4E8E\u89C2\u6218\u6A21\u5F0F\uFF0C\u9700\u898130\u91D1\u5E01\u5373\u53EF\u53C2\u4E0E\u6E38\u620F"
 --- !u!114 &1847158051
 MonoBehaviour:
   m_ObjectHideFlags: 0
