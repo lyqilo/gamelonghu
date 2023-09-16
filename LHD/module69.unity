@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.35872698, a: 1}
+  m_IndirectSpecularColor: {r: 0.3708987, g: 0.37837064, b: 0.35722545, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -227,9 +227,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &2663000 stripped
@@ -5385,9 +5389,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     - target: {fileID: 8447778195546532802, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -7043,7 +7051,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 141, y: 31}
+  m_AnchoredPosition: {x: 274, y: 33}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &382080297
@@ -8674,7 +8682,7 @@ PrefabInstance:
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &440854118 stripped
@@ -13170,12 +13178,12 @@ PrefabInstance:
       objectReference: {fileID: 854116180}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_fontSize
-      value: 28.35
+      value: 29.15
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &666980707 stripped
@@ -14124,9 +14132,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &714726440 stripped
@@ -16947,9 +16959,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &850574439 stripped
@@ -19058,9 +19074,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 32.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     - target: {fileID: 8447778195546532802, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -24284,12 +24304,12 @@ PrefabInstance:
       objectReference: {fileID: 854116180}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_fontSize
-      value: 28.35
+      value: 29.15
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &1173944266 stripped
@@ -24401,9 +24421,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &1182031758 stripped
@@ -25690,9 +25714,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &1238708616 stripped
@@ -32289,9 +32317,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &1569302752 stripped
@@ -36063,12 +36095,12 @@ PrefabInstance:
       objectReference: {fileID: 854116180}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_fontSize
-      value: 28.35
+      value: 29.15
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &1782191072 stripped
@@ -37189,12 +37221,12 @@ PrefabInstance:
       objectReference: {fileID: 854116180}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_fontSize
-      value: 28.35
+      value: 29.15
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &1867587394 stripped
@@ -38708,9 +38740,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 33.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     - target: {fileID: 8447778195546532802, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -39601,9 +39637,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &2009009140 stripped
@@ -40292,7 +40332,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1074806175}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -40614,12 +40654,16 @@ PrefabInstance:
       objectReference: {fileID: 854116180}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_fontSize
-      value: 28.35
+      value: 29.15
       objectReference: {fileID: 0}
     - target: {fileID: 8080955227846258474, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
       propertyPath: m_spriteAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 3c550e1acda26094882ed5ecad90f6ec, type: 2}
+      objectReference: {fileID: 11400000, guid: 1815efccfcafa374c8537c4bde112f74, type: 2}
+    - target: {fileID: 8447778195546532802, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ae04486f7903a44e980797b99d05261, type: 3}
 --- !u!224 &2056412440 stripped
@@ -40662,7 +40706,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 141, y: 31}
+  m_AnchoredPosition: {x: 274, y: 33}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2059449647
